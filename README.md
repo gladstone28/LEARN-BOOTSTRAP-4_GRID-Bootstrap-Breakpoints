@@ -8,7 +8,7 @@ One benefit of using Bootstrap is that it incorporates responsive design. With r
 
 Bootstrap categorizes screen sizes into 5 categories or as breakpoints: extra small, small, medium, large, and extra large. Each breakpoint has a range measured in pixels. The range of these breakpoints and accompanying device types are marked in the following table:
 
-![]()
+![](scree-shot-breakpoint.jpg)
 
 By using these breakpoints in combination with Bootstrap’s grid, we can customize the layout of our content for different screens.
 
