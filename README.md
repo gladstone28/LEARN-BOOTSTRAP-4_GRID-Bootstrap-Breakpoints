@@ -1,7 +1,5 @@
 [This is the link to the lesson](https://www.codecademy.com/courses/learn-bootstrap/lessons/learn-bootstrap-grid/exercises/breakpoints)
 
-
-
 # LEARN BOOTSTRAP 4: GRID
 
 ## Bootstrap Breakpoints
@@ -12,8 +10,6 @@ Bootstrap categorizes screen sizes into 5 categories or as breakpoints: extra sm
 
 ![]()
 
-
-
 By using these breakpoints in combination with Bootstrap’s grid, we can customize the layout of our content for different screens.
 
 ### Instructions
@@ -21,3 +17,6 @@ By using these breakpoints in combination with Bootstrap’s grid, we can custom
 > Examine the provided GIF, notice how the content of the webpage changes on different screen sizes.
 
 ![](Film-Festival-Responive-updated.gif)
+
+memory jog:
+/c/Users/glads/Documents/PROJECTS_AT_CODECADEMY/LEARN-BOOTSTRAP-4_GRID-Bootstrap-Breakpoints
